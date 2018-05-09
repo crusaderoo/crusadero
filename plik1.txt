@@ -1,2 +1,4 @@
 plik1
 modyfikacje
+
+modyfikacja1
